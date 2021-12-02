@@ -209,7 +209,7 @@ match.input = function(input1, input2){
 CRPS <- function(x, mu, sig){
 
   xo = (x-mu)/sig
-  crps = sig*(xo*(2*pnorm(xo)-1) + 2*pnorm(xo) - 1/sqrt(pi))
+  crps = sig*(xo*(2*pnorm(xo)-1) + 2*dnorm(xo) - 1/sqrt(pi))
   
   return(crps)
 }
