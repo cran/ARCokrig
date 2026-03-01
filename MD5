@@ -1,4 +1,4 @@
-4007d27fea8cf3708f2224ffc812bc27 *DESCRIPTION
+40d6847d78da7625d720bd11b8c9a145 *DESCRIPTION
 1deab0964dd2d24dc53059622f59a6fc *NAMESPACE
 09168899de788f9d6706430780d512ad *R/ARCokrig.R
 4bd58afaff08abdd1694a1fddccaa427 *R/AllClass.R
@@ -14,10 +14,9 @@ f9c0105007859525ebf02268bff928e7 *R/cokm.fit.R
 7bea2e31f4c5d99979d0bf255b43c04e *R/mvcokm.param.R
 eac6319f4feb718f168f1f19cdec55d4 *R/mvcokm.predict.R
 d262ba3a40b4ce0dfde4ea1e508ee100 *R/mvcokmUtils.R
-41e3a0bec38aa28029726174b7bfc411 *R/startup.R
 66673625ef21212d6c235c9c8533a762 *R/utils.R
-283f3e8c2c217bb0a07f1e6c4f93a019 *inst/CITATION
-517ec60ea5cf3334061dc288a616472d *inst/NEWS.Rd
+92c162af4e12dba4654b0800249c110f *inst/CITATION
+f2485bf90b780eb65ae8cb8452be7047 *inst/NEWS.md
 e60e88180ab8e24d553ff19eca8ccb5d *man/ARCokrig.Rd
 763ae634f14c930104a42e4a1f9316e6 *man/CRPS.Rd
 456b1a1a8e831b233ef7ab02d175cb65 *man/cokm-class.Rd
@@ -32,7 +31,7 @@ c99759d9b9b95f85d0af70827fcf898c *man/mvcokm.condsim.Rd
 88bec486d2b0df3bbd654582c5d57612 *man/mvcokm.fit.Rd
 861838c17af59c525f7e60aefb425c8e *man/mvcokm.param.Rd
 ca5938df5d783bb652f6e85040a395fc *man/mvcokm.predict.Rd
-84c14a469771ec6c8c3c8a089942b476 *src/Makevars
-84c14a469771ec6c8c3c8a089942b476 *src/Makevars.win
+9b609830351380037ae39ce549db96d4 *src/Makevars
+2505670c57ff9ea0a9d72bca6d22eef2 *src/Makevars.win
 4d3950101613879c76e1374931c7b717 *src/RcppExports.cpp
 6a6a23b7a46cd8fa61eb09d560f550a8 *src/utils.cpp

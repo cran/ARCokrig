@@ -9,9 +9,9 @@ bibentry(bibtype="Misc",
                email = "mpulong@gmail.com")
 	       ),
 	       note = NOTE,
- organization = "Statistical and Applied Mathematical Sciences Institute",
-      address = "Durham, NC, USA",
-         year = 2019,
+ organization = "Iowa State University",
+      address = "Ames, IA, USA",
+         year = 2023,
           url = "https://github.com/pulongma/ARCokrig"
     )
 
